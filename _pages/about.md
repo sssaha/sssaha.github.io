@@ -15,3 +15,4 @@ I completed my Bachelor of Science (B.Sc.) degree from the [Department of Electr
 My research interest includes Optimization, Machine Learning, Seuqntial Analysis, Statistical Signal Processing, Wireless Communication, Pattern Recognition. My aim is to have a stimulating research-centric career concentrated on data science and algorithm development. In this site, I have shared my academic experiences and research projects. Thanks for visiting my site!
 
 <br/><img src='/images/colorado_mountaintop.jpg' width="972" height="409">
+*Image Location: 12000 ft at Rocky Mountain National Park, Estes Park, CO*
