@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Samrat Nath"
-  avatar           : "profile.png"
+  avatar           : "pro_pic_career_fair-2019-min.jpg"
   bio              : "Ph.D. Candidate and Data Science Enthusiast"
   location         : "Arkansa, USA"
   employer         : "University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en"
   email            : "samratnath4u@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Samrat_Nath3" 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/samrat-nath"
+  github           : "samrat-nath"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samrat-nath-2968b49a/"
+  linkedin         : "samrat-nath-2968b49a/"
   orcid            : "https://orcid.org/0000-0002-3117-8560"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
