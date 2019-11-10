@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrath_Nath.pdf).
+[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf)
 
 Education
 ======
-- **Doctor of Philosophy (Ph.D.) in Electrical Engineering
+- **Doctor of Philosophy (Ph.D.) in Electrical Engineering**
   - **Instituition:** University of Arkansas, Fayetteville, AR, USA.
   - **Date:** May 2020 (expected)
   - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
   - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/) 
 
-- **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering
-  - **Instituition:** Bangladesh University of ENgineering and Technology (BUET), Dhaka, Bangladesh.
+- **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
+  - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
   - **Date:** May 2020 (expected)
   - **Thesis:** Spatio-Temporal Feature Extraction Scheme for Human Action Recognition
   - **Advisor:** [Dr. Shaikh ANowarul Fattah](https://sites.google.com/site/drshaikhfattah/) 
