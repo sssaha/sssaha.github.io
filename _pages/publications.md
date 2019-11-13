@@ -48,4 +48,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  ### Manuscripts under Preparation:
  
- [P1] **S. Nath** and J. Wu, Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems.
+ [P1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems".
