@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf)
+[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf){:target="_blank"}
 
 Education
 ======
@@ -18,52 +18,72 @@ Education
   - **Date:** May 2020 (expected)
   - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
   - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/) 
+  - **CGPA:** 4.00/4.00 
+  - **Courses:** Introduction to Deep Learning | Statistical Inference | Computational Statistics | Multivariate Analysis | Regression Analysis | Time Series Analysis | Detection and Estimation | Wireless Communications
 
 - **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
   - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
-  - **Date:** May 2020 (expected)
+  - **Date:** July 2014
   - **Thesis:** Spatio-Temporal Feature Extraction Scheme for Human Action Recognition
-  - **Advisor:** [Dr. Shaikh ANowarul Fattah](https://sites.google.com/site/drshaikhfattah/) 
+  - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/)
+  <!---
+  - **CGPA:** 3.71/4.00 
+--->
+  - **Courses:** Systems & Signals | Digital Signal Processing | Communication Theory | Digital Communication| Random Signals & Process | Probability & Statistics | Control System | Power System Analysis
 
-Work experience
+
+Technical Skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- *Programming Languages*: Python, R, MATLAB, C++, SQL 
+- *Machine Learning Frameworks*: PyTorch, NumPy, SciPy, Pandas, scikit-learn, Jupyter
+- *Engineering Applications*: Simulink, PSpice, Proteus, Tableau, Alteryx
+- *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office, Prezi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**
+*Graduate Research Assistant, Department of Electrical Engineering*
+  - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/)  
+  - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication.
+  - Published 2 journals and 4 conference papers so far.
+*Graduate Teaching Assistant, Department of Electrical Engineering*
+  - Assisted in grading of courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
+  - Instructed 50 students on average each year in MATLAB.
+- **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**
+*Summer Intern Data Analyst, Global Business Service Digital Solutions*
+  - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
+  - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/)
+  - Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/)
 
-Publications
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Academic Awards & Scholarships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+- *Dean’s List Award, BUET (2010 – 2012)*
+  - Obtained Honors (3.75) grade point in junior and senior years.
+- *University Admission Test Excellency Scholarship, BUET (2009)*
+  - Ranked in top 1% among 7000+ applicants in undergraduate admission test.
+- *Dhaka Education Board Scholarship, Ministry of Education, Bangladesh (2008)*
+  - For excellence in Higher Secondary School Certificate Examination (H.S.C).
+- *Perfect Attendance Certificate, Notre Dame College, Dhaka, Bangladesh (2006-2008)*
+  - Maintained 100% class attendance in higher secondary school.
+
+Leadership Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+- *President, Bangladesh Student Organization at the UA (Jun 2017 – May 2018)*
+  - Managed a registered student organization of 37 Bangladeshi students.
+  - Organized an annual cultural event with 130+ guests inculding faculty and students from different countries.
+
+Professional Affiliations
 ======
-* Currently signed in to 43 different slack teams
+- Member, IEEE (Jan 2018 – Dec 2019)
+- Member, IEEE Young Professionals (Jan 2018 – Dec 2019)
+- Member, IEEE Signal Processing Society (Jan 2019 – Dec 2019)
+
