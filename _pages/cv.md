@@ -24,7 +24,7 @@ Education
 - **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
   - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
   - **Date:** July 2014
-  - **Thesis:** Spatio-Temporal Feature Extraction Scheme for Human Action Recognition
+  - **Thesis:** [Spatio-Temporal Feature Extraction Scheme for Human Action Recognition](https://www.researchgate.net/publication/331356501_Spatio-temporal_Feature_Extraction_Scheme_for_Human_Action_Recognition)
   - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/)
   - **CGPA:** 3.71/4.00 
   - **Courses:** Systems & Signals, Digital Signal Processing, Communication Theory, Digital Communication, Random Signals & Process, Probability & Statistics, Control System, Power System Analysis
@@ -45,9 +45,11 @@ Professional Experience
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/)  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication.
   - Published 2 journals and 4 conference papers so far.<br>
+  
 *Graduate Teaching Assistant, Department of Electrical Engineering*
   - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.
+  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
 *Summer Intern Data Analyst, Global Business Service Digital Solutions*
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
