@@ -40,12 +40,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  [C1] R. Nath, F. S. Rahman,  **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme using morphological reconstruction based segmentation"](https://ieeexplore.ieee.org/document/6919175), in *Proc. International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, 10-12 April 2014, Dhaka, Bangladesh.
  
- ### Manuscripts in Review:
+ ## Manuscripts in Review:
  
  [R2] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, "Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current, in *IEEE Access*, Nov. 2019.
  
  [R1] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
  
- #### Manuscripts under Preparation:
+ ### Manuscripts under Preparation:
  
- - **S. Nath** and J. Wu, Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems.
+ [P1] **S. Nath** and J. Wu, Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems.
