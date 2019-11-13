@@ -19,17 +19,15 @@ Education
   - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
   - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/) 
   - **CGPA:** 4.00/4.00 
-  - **Courses:** Introduction to Deep Learning | Statistical Inference | Computational Statistics | Multivariate Analysis | Regression Analysis | Time Series Analysis | Detection and Estimation | Wireless Communications
+  - **Courses:** Deep Learning, Statistical Inference, Computational Statistics, Multivariate Analysis, Regression, Time Series, Detection & Estimation, Wireless Communications
 
 - **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
   - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
   - **Date:** July 2014
   - **Thesis:** Spatio-Temporal Feature Extraction Scheme for Human Action Recognition
   - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/)
-  <!---
   - **CGPA:** 3.71/4.00 
---->
-  - **Courses:** Systems & Signals | Digital Signal Processing | Communication Theory | Digital Communication| Random Signals & Process | Probability & Statistics | Control System | Power System Analysis
+  - **Courses:** Systems & Signals, Digital Signal Processing, Communication Theory, Digital Communication, Random Signals & Process, Probability & Statistics, Control System, Power System Analysis
 
 
 Technical Skills
@@ -42,15 +40,15 @@ Technical Skills
 
 Professional Experience
 ======
-- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**
+- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
 *Graduate Research Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/)  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication.
-  - Published 2 journals and 4 conference papers so far.
+  - Published 2 journals and 4 conference papers so far.<br>
 *Graduate Teaching Assistant, Department of Electrical Engineering*
-  - Assisted in grading of courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
+  - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.
-- **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**
+- **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
 *Summer Intern Data Analyst, Global Business Service Digital Solutions*
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
   - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/)
