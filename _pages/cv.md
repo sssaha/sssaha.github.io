@@ -43,7 +43,8 @@ Professional Experience
 - **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
 *Graduate Research & Teaching Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/)  
-  - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication.
+  - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
+  simulations performed in MATLAB & Python.
   - Published 2 journals and 4 conference papers so far.<br>
   - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.  
