@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Samrat ('Sam'). I am originally from Bangladesh. Here are some personal information I'd like to share about me:
-- I consider myself to be ambivert. I like to plan ahead, but I can be adaptable. 
+Hi! I'm Samrat ('Sam'). I am originally from Bangladesh. Here are some personal information I'd like to share about myself:
+- If I had to summarize myself, I'd consider myself as an ambivert and adaptable guy who likes to plan ahead. 
 - I love football. And, by football I mean 'Soccer'. Huge fan of Manchester United. GGMU.
 - I like travelling, cooking, binge-watching tv shows and animes, and listening to melody songs.
 
