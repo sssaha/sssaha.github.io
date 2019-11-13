@@ -55,8 +55,8 @@ Professional Experience
   
 Research Experience
 ======
-- Details of my research can be found in the page [Research](https://samrat-nath.github.io/research/){:target="_blank"} 
-- Full list of publications is avaialble in the page [Publications](https://samrat-nath.github.io/publications/){:target="_blank"} 
+- Details of my research can be found in the page [Research](https://samrat-nath.github.io/research/)
+- Full list of publications is avaialble in the page [Publications](https://samrat-nath.github.io/publications/)
 
 <!--
 Selected Publications
