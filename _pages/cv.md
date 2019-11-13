@@ -17,15 +17,15 @@ Education
   - **Instituition:** University of Arkansas, Fayetteville, AR, USA.
   - **Date:** May 2020 (expected)
   - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
-  - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/) 
+  - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}
   - **CGPA:** 4.00/4.00 
   - **Courses:** Deep Learning, Statistical Inference, Computational Statistics, Multivariate Analysis, Regression, Time Series, Detection & Estimation, Wireless Communications
 
 - **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
   - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
   - **Date:** July 2014
-  - **Thesis:** [Spatio-Temporal Feature Extraction Scheme for Human Action Recognition](https://www.researchgate.net/publication/331356501_Spatio-temporal_Feature_Extraction_Scheme_for_Human_Action_Recognition)
-  - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/)
+  - **Thesis:** [Spatio-Temporal Feature Extraction Scheme for Human Action Recognition](https://www.researchgate.net/publication/331356501_Spatio-temporal_Feature_Extraction_Scheme_for_Human_Action_Recognition){:target="_blank"}
+  - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/){:target="_blank"}
   - **CGPA:** 3.71/4.00 
   - **Courses:** Systems & Signals, Digital Signal Processing, Communication Theory, Digital Communication, Random Signals & Process, Probability & Statistics, Control System, Power System Analysis
 
@@ -42,7 +42,7 @@ Professional Experience
 ======
 - **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
 *Graduate Research & Teaching Assistant, Department of Electrical Engineering*
-  - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/)  
+  - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
   simulations performed in MATLAB & Python.
   - Published 2 journals and 4 conference papers so far.<br>
@@ -50,13 +50,13 @@ Professional Experience
   - Instructed 50 students on average each year in MATLAB.  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
 *Summer Intern Data Analyst, Global Business Service Digital Solutions*
-  - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/), Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/)
+  - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}, Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/){:target="_blank"}
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
   
 Research Experience
 ======
-Please refer to my pages [Research](https://samrat-nath.github.io/research/) for detail description and 
-[Publications](https://samrat-nath.github.io/publications/) for full list of publications.
+- Details of my research can be found in the page [Research](https://samrat-nath.github.io/research/){:target="_blank"} 
+- Full list of publications is avaialble in the page [Publications](https://samrat-nath.github.io/publications/){:target="_blank"} 
 
 <!--
 Selected Publications
