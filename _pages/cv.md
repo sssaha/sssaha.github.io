@@ -53,14 +53,18 @@ Professional Experience
   - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/), Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/)
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
   
+Research Experience
+======
+Please refer to my pages [Research](https://samrat-nath.github.io/research/) for detail description and 
+[Publications](https://samrat-nath.github.io/publications/) for full list of publications.
 
-
+<!--
 Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
 
 Academic Awards & Scholarships
 ======
