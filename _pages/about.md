@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm Samrat ('Sam'). I am originally from Bangladesh. Here are some personal information I'd like to share about myself:
 - I'd like to describe myself as an ambivert and adaptable guy who likes to plan ahead. 
 - I love football. And, by football I mean 'Soccer'. Huge fan of Manchester United. GGMU.
-- I like travelling, cooking, binge-watching tv shows and animes, and listening to melody songs.
+- I like travelling, cooking, binge-watching tv shows & animes, listening to melody songs.
 
 I am currently a Ph.D. candidate in the [Electrical Engineering Department](https://electrical-engineering.uark.edu/) at the [University of Arkansas, Fayetteville](http://www.uark.edu/) and serving as a Graduate Research Assistant in Intelligent Information Sensing and Transmission Lab under the supervision of [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/). My research focus is on developing sequential analysis based optimization algorithms with applications in various fields of electrical engineering. Currently, I'm working on my dissertation titled "Quickest Change Detection with Imperfect Post-change Models" with the target of graduating in May 2020.
 
