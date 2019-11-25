@@ -46,7 +46,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
  
- [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dubline, Ireland.
+ [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
  
  ### Manuscripts under Preparation:
  
