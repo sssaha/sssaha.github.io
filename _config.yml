@@ -84,7 +84,7 @@ author:
   name             : "Samrat Nath"
   avatar           : "rsz_pro_pic.jpg"   #"pro_pic_career_fair-2019-min.jpg"
   bio              : "Ph.D. Candidate and Data Science Enthusiast"
-  location         : "Arkansa, USA"
+  location         : #"Arkansas, USA"
   employer         : "University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en"
