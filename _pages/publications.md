@@ -34,20 +34,25 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 [C4] **S. Nath**, J. Wu, and J. Yang, ["Optimizing age-of-information and energy efficiency tradeoff for mobile pushing notifications"](https://ieeexplore.ieee.org/document/8227712/), in *Proc. IEEE Intern. Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, 3-6 July, 2017, Sapporo, Japan. 
 
-[C3] S. I. Audin,  **S. Nath**, S. Basak, F. S. Rahman, R. Nath, and S. A. Fattah,  ["A human action recognition scheme based on spatio-temporal variation of region of interest in horizontal and vertical direction"](https://ieeexplore.ieee.org/document/6850809), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh.
+[C3] S. I. Audin,  **S. Nath**, S. Basak, F. S. Rahman, R. Nath, and S. A. Fattah,  ["A human action recognition scheme based on spatio-temporal variation of region of interest in horizontal and vertical direction"](https://ieeexplore.ieee.org/document/6850809), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh. -->
 
- [C2] F. S. Rahman, R. Nath, **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme based on K-means clustering in different color planes"](https://ieeexplore.ieee.org/document/6850781), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh. -->
+ [C2]  M. N. I. Khan ; Z. Khan ; D. F. Noor ; A. Nahiyan, E. Haque, **S. Saha**, R. K. Rachi and Z, R. Khan, ["Modelling and simulation of an efficient Charge Controller for Photovoltaic System with Maximum Power Point Tracking "](https://ieeexplore.ieee.org/document/6861672), in *3rd International Conference on the Developments in Renewable Energy Technology (ICDRET)*, 29-31 May 2014, Dhaka, Bangladesh. 
  
  [C1]  P. Ahmmed , **S. Saha** , S. M. N. Al Sunny , I. Hossain and I. J. Rafee, ["Modeling and simulation of a Microcontroller based power factor correction converter"](https://ieeexplore.ieee.org/document/6572713), in *International Conference on Informatics, Electronics and Vision (ICIEV)*, 01 August 2013, Dhaka, Bangladesh.
  
- ## Manuscripts in Review:
+ ## Magazines:
+
+ [M2]  A. Anderson, P. Loomba, I. Orajaka, J. Numfor, **S. Saha**, S. Janko, N. Johnson, R. Podmore and R. Larsen, ["Empowering Smart Communities: Electrification, Education, and Sustainable Entrepreneurship in IEEE Smart Village Initiatives"](https://ieeexplore.ieee.org/document/7942258), in *IEEE Electrification Magazine*, vol. 5, no. 2, pp. 6-16, June 2017. 
+
+ [M1]  R. Podmore, R. Larsen, H. Louie, N. Johnson, **S. Saha**, ["Fueling Sustainability: The Exponential Impact of Empowering Off-Grid Communities"](https://ieeexplore.ieee.org/document/7420794), in *IEEE Electrification Magazine*, vol. 4, no. 1, pp. 11-17, Feb. 2016. 
+
+ ## Manuscripts under Review:
  
- [R1] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors, in *IEEE Access*, Nov. 2019.
+ [R2] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
  
- <!-- [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
- 
- [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland. -->
- 
- ### Manuscripts under Preparation:
+ [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *IEEE Access*, Sep. 2019.
+
+  
+ ## Manuscripts under Preparation:
  
  [P1] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation".

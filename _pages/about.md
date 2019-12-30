@@ -17,6 +17,6 @@ I am currently a Ph.D. candidate in the [Electrical Engineering Department](http
 
 I completed my Bachelor of Science (B.Sc.) degree from the [Department of Electrical and Electronic Engineering (EEE)](http://eee.buet.ac.bd/) of [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). During my senior year, I worked on "Spatio-Temporal Feature Extraction Scheme for Human Action Recognition" in my undergraduate thesis under the supervision of [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/). After my undergrad, I came to USA in Spring 2016 to pursue my doctoral studies at the UofA. I had the opportunity to work on different kinds of projects during last 4 years. My research studies deal with Optimization, Machine Learning, Seuqntial Analysis, Statistical Signal Processing, Wireless Communication, Pattern Recognition among many other topics. For now, my goal is to have a stimulating research-centric career concentrated on data science and algorithm development. 
 
-In this site, I've shared my academic and research experiences. Thanks for visiting my site!
+<!-- In this site, I've shared my academic and research experiences. Thanks for visiting my site!
 <img src='/images/colorado_mountaintop.jpg' width="972" height="409">
-*Image Location: 12000 ft at Rocky Mountain National Park, Estes Park, CO*
+*Image Location: 12000 ft at Rocky Mountain National Park, Estes Park, CO* -->

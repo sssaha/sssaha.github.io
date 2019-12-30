@@ -9,54 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf){:target="_blank"}
+<!-- [Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf){:target="_blank"} -->
 
 Education
 ======
 - **Doctor of Philosophy (Ph.D.) in Electrical Engineering**
-  - **Instituition:** University of Arkansas, Fayetteville, AR, USA.
-  - **Date:** May 2020 (expected)
-  - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
-  - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}
-  - **CGPA:** 4.00/4.00 
-  - **Courses:** Deep Learning, Statistical Inference, Computational Statistics, Multivariate Analysis, Regression, Time Series, Detection & Estimation, Wireless Communications
+  - **Instituition:** Arizona State University, Tempe, Arizona, USA.
+  - **Date:** October 2020 (expected)
+  - **Dissertation:** Stability and Security of Distribution Networks with High-Penetration Renewables
+  - **Advisor:** [Dr. Nathan Johnson](https://sustainability.asu.edu/person/nathan-johnson/){:target="_blank"}
+  - **CGPA:** 3.90/4.00 
+  - **Courses:** Power System Stability, Power System Dynamics, Power Plant Operation and Control, Optimal Control, Renewable Electric Energy Systems, Power System Planning and Operation
 
 - **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**
   - **Instituition:** Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
   - **Date:** July 2014
-  - **Thesis:** [Spatio-Temporal Feature Extraction Scheme for Human Action Recognition](https://www.researchgate.net/publication/331356501_Spatio-temporal_Feature_Extraction_Scheme_for_Human_Action_Recognition){:target="_blank"}
-  - **Advisor:** [Dr. Shaikh Anowarul Fattah](https://sites.google.com/site/drshaikhfattah/){:target="_blank"}
-  - **CGPA:** 3.71/4.00 
-  - **Courses:** Systems & Signals, Digital Signal Processing, Communication Theory, Digital Communication, Random Signals & Process, Probability & Statistics, Control System, Power System Analysis
+  - **Thesis:** [Study and analysis of existing solar PV system in urban area of Bangladesh](https://ieeexplore.ieee.org/document/7026965){:target="_blank"}
+  - **Advisor:** [Dr. Shahidul Islan Khan](https://www.bracu.ac.bd/about/people/shahidul-islam-khan-phd){:target="_blank"}
+  - **CGPA:** 3.83/4.00 
+  - **Courses:** Power Systems, Digital Signal Processing, Numerical Analysis ,OptoElectronics ,Control System, Power System Analysis
 
 
 Technical Skills
 ======
-- *Programming Languages*: Python, R, MATLAB, C++, SQL 
-- *Machine Learning Frameworks*: PyTorch, NumPy, SciPy, Pandas, scikit-learn, Jupyter
-- *Engineering Applications*: Simulink, PSpice, Proteus, Tableau, Alteryx
-- *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office, Prezi
+- *Programming Languages*: Python, MATLAB, NodeJS, C, Java 
+- *Power System Software*:  OpenDSS, GridlabD, XENDEE, DSATools (PSAT,TSAT,SSAT), PSLF, PSSE, MATPower, PSCAD
+- *Optimization Tools*:  AMPL, Google OR Solver, DERCAM
+- *Engineering Applications*: Simulink, PSpice, Proteus, Cadence, PLECS
+- *Embedded Systems*: Arduino, Raspberry PI
+- *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office 
 
 
 Professional Experience
 ======
 - **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
-*Graduate Research & Teaching Assistant, Department of Electrical Engineering*
-  - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
-  - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
-  simulations performed in MATLAB & Python.
-  - Published 2 journals and 4 conference papers so far.<br>
-  - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
-  - Instructed 50 students on average each year in MATLAB.  
-- **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
-*Summer Intern Data Analyst, Global Business Service Digital Solutions*
-  - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}, Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/){:target="_blank"}
+*Graduate Research Assistant, Department of Electrical Engineering*
+  - Supervisor: [Dr. Nathan Johnson](https://sustainability.asu.edu/person/nathan-johnson/){:target="_blank"} 
+  - Performed research with focus on synthethic distribution feeder development, application of blockchain in Transactive Energy, cyber-security of inverter dominated networks.
+  <!-- - Published 2 journals and 4 conference papers so far.<br> -->
+  - Course Instructor for "Microgrid Design and Operation Course" for undergrad and graduate students
+  <!-- - Instructed 50 students on average each year in MATLAB.   -->
+- **Lawrence Berkeley National Lab, Berkeley, USA (May 2018 – Aug 2018)**<br>
+*Research Intern, Grid Integration Group*
+  - Supervisor: [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold){:target="_blank"}
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
+  - Developed a MATLAB and Python based OpenDSS simulation environment for simulating cyber-attack scenarios on smart inverters for power distribution systems.
   
-Research Experience
+<!-- Research Experience
 ======
 - Details of my research can be found in the page [Research](https://samrat-nath.github.io/research/)
-- Full list of publications is avaialble in the page [Publications](https://samrat-nath.github.io/publications/)
+- Full list of publications is avaialble in the page [Publications](https://samrat-nath.github.io/publications/) -->
 
 <!--
 Selected Publications
@@ -66,7 +68,7 @@ Selected Publications
   {% endfor %}</ul>
 -->  
 
-Academic Awards & Scholarships
+<!-- Academic Awards & Scholarships
 ======
 - *Dean’s List Award, BUET (2010 – 2012)*
   - Obtained Honors (3.75) grade point in junior and senior years.
@@ -75,9 +77,9 @@ Academic Awards & Scholarships
 - *Dhaka Education Board Scholarship, Ministry of Education, Bangladesh (2008)*
   - For excellence in Higher Secondary School Certificate Examination (H.S.C).
 - *Perfect Attendance Certificate, Notre Dame College, Dhaka, Bangladesh (2006-2008)*
-  - Maintained 100% class attendance in higher secondary school.
+  - Maintained 100% class attendance in higher secondary school. -->
 
-Leadership Experience
+<!-- Leadership Experience
 ======
 - *President, Bangladesh Student Organization at the UA (Jun 2017 – May 2018)*
   - Managed a registered student organization of 37 Bangladeshi students.
@@ -87,5 +89,5 @@ Professional Affiliations
 ======
 - Member, IEEE (Jan 2018 – Dec 2019)
 - Member, IEEE Young Professionals (Jan 2018 – Dec 2019)
-- Member, IEEE Signal Processing Society (Jan 2019 – Dec 2019)
+- Member, IEEE Signal Processing Society (Jan 2019 – Dec 2019) -->
 
