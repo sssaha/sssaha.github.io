@@ -17,8 +17,8 @@ Joining the Ph.D. program helped me to expand my skills in different commercial 
 I have always been a team player and like working with a different group of people. I enjoy being a leader. I am passionate about developing advanced technology solutions in an affordable way to help humanity as well as the industry.
 
 Some personal information I'd like to share about myself:
-- I am addicted to Chess and International Bridge. Please find me (**sssaha**) at [BridgeBase](https://www.bridgebase.com/) if you are interested in playing together.
-- I like travelling, cooking, binge-watching tv shows. My personal favorite is and probably will always be [Person of Interest] (https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series))
+- I am addicted to Chess and International Bridge. Please find me (**sssaha**) at [BridgeBase](https://www.bridgebase.com/){:target="_blank"} if you are interested in playing together.
+- I like travelling, cooking, binge-watching tv shows. My personal favorite is and probably will always be Person of Interest.
 
 <!-- I am currently a Ph.D. candidate in the [Electrical Engineering Department](https://electrical-engineering.uark.edu/) at the [University of Arkansas, Fayetteville](http://www.uark.edu/) (UofA) and serving as a Graduate Research Assistant in the Intelligent Information Sensing and Transmission Lab under the supervision of [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/). My research focus is on developing sequential analysis based optimization algorithms with applications in various fields of electrical engineering. Currently, I'm working on my dissertation titled "Quickest Change Detection with Imperfect Post-change Models" with the target of graduating in May 2020.
 
