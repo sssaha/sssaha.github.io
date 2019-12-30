@@ -17,6 +17,10 @@ Currently working on developing a JAVA based transient stability simulator using
 ### Design of an Universal Charge Controller
 The goal of the this project was to design an Universal Charge Controller (UCC) that meets load requirements for a household or other small building up to 500W peak load capacity. Power source connections include solar photovoltaics (18-24VDC), battery storage (12-24VDC), an AC micro-grid (110/220VAC), or a DC micro-grid (50-70VDC). This flexibility, combined with intelligent controls, permits the UCC to serve as the keystone in connecting various energy architectures as a community develops over time. 
 
+### Analysis of off-grid microgrid design for Niger
+I developed a Python based tool that converts QGIS models of eleven islanded villages of Niger for [PowerGen](https://www.powergen-renewable-energy.com/). The automated tool can refine the QGIS based distribution network models and can produce a GIS visualiztion of the network voltage.
+
+
 ## Academic Projects
 - Dynamic Model Development of an Inverter using *PSLF*
 - Tuning of PSS for the Two-Area Four Machine System using *DSATools*
