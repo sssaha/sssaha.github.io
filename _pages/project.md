@@ -1,7 +1,7 @@
 ---
 permalink: /project/
-title: "Project Work"
-excerpt: "Project Work"
+title: "Project"
+excerpt: "Project"
 author_profile: true
 ---
 
