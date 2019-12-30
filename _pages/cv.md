@@ -35,14 +35,15 @@ Technical Skills
 - *Programming Languages*: Python, MATLAB, NodeJS, C, Java 
 - *Power System Software*:  OpenDSS, GridlabD, XENDEE, DSATools (PSAT,TSAT,SSAT), PSLF, PSSE, MATPower, PSCAD
 - *Optimization Tools*:  AMPL, Google OR Solver, DERCAM
+- *Blockchain Application*: Hyperledger Fabric
 - *Engineering Applications*: Simulink, PSpice, Proteus, Cadence, PLECS
 - *Embedded Systems*: Arduino, Raspberry PI
-- *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office 
+- *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office, Docker 
 
 
 Professional Experience
 ======
-- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
+- **Arizona State University, Tempe, Arizona, USA (August 2015 – Present)**<br>
 *Graduate Research Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Nathan Johnson](https://sustainability.asu.edu/person/nathan-johnson/){:target="_blank"} 
   - Performed research with focus on synthethic distribution feeder development, application of blockchain in Transactive Energy, cyber-security of inverter dominated networks.
@@ -52,7 +53,7 @@ Professional Experience
 - **Lawrence Berkeley National Lab, Berkeley, USA (May 2018 – Aug 2018)**<br>
 *Research Intern, Grid Integration Group*
   - Supervisor: [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold){:target="_blank"}
-  - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
+  <!-- - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R. -->
   - Developed a MATLAB and Python based OpenDSS simulation environment for simulating cyber-attack scenarios on smart inverters for power distribution systems.
   
 <!-- Research Experience
