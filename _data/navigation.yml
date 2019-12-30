@@ -11,10 +11,8 @@ main:
     
   - title: "Media Coverage"
     url: /media-coverage/
-
   - title: "Talks"
-   url: /talks/    
-    
+    url: /talks/
   - title: "Contact"
     url: /contact/
 
