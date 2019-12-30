@@ -11,6 +11,12 @@ This project implements Blockchain technology to both secure and facilitate ener
 ### Synthetic Power Distribution Network
 In this project, I created a framework to generate synthetic power distribution networks. These networks map to real geo-spatial topologies that track roads from OpenStreetMap data. Substation locations were selected from similar work that developed synthetic transmission test cases. Underlying real and reactive power in the distribution network were assigned using population information gathered from United States 2010 Census block data.
 
+### JAVA Based Transient Simulator Development
+Currently working on developing a JAVA based transient stability simulator using [OpenPA](https://github.com/powerdata/com.powerdata.openpa) library; which will then be included in the long term dynamic stability simulator developed by the industry partners. This work also includes the development an unbalanced power flow algorithm to be added to the OpenPA library.
+
+### Design of an Universal Charge Controller
+The goal of the this project was to design an Universal Charge Controller (UCC) that meets load requirements for a household or other small building up to 500W peak load capacity. Power source connections include solar photovoltaics (18-24VDC), battery storage (12-24VDC), an AC micro-grid (110/220VAC), or a DC micro-grid (50-70VDC). This flexibility, combined with intelligent controls, permits the UCC to serve as the keystone in connecting various energy architectures as a community develops over time. 
+
 ## Academic Projects
 - Dynamic Model Development of an Inverter using *PSLF*
 - Tuning of PSS for the Two-Area Four Machine System using *DSATools*
