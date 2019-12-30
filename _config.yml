@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-152405050-1"
     anonymize_ip         : true
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Shammya Saha"
-  avatar           : "shammo.jpg"
+  avatar           : "rsz_pro_pic.jpg"
   bio              : "Graduate Research Assistant, Laboratory for Energy and Power Solutions"
   location         : "Tempe, Arizona"
   employer         : "Arizona State University"
