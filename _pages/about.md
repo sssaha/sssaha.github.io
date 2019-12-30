@@ -20,5 +20,5 @@ Some personal information I'd like to share about myself:
 - I am addicted to Chess and International Bridge. Please find me (**sssaha**) at [BridgeBase](https://www.bridgebase.com/){:target="_blank"} if you are interested in playing together.
 - I like travelling, cooking, binge-watching tv shows. My personal favorite is and probably will always be [Person of Interest](https://www.imdb.com/title/tt1839578/).
 
-<img src='/images/Hum.jpg' width="972" height="409">
-*Image Location: Humphreys Peak, Highest Peak of Arizona* 
+<img src='/images/Hum.jpg' width="972" height="309">
+*Humphreys Peak, Highest Peak of Arizona* 
