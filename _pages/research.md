@@ -1,7 +1,7 @@
 ---
-permalink: /research/
-title: "Research"
-excerpt: "Research"
+permalink: /project/
+title: "Project Work"
+excerpt: "Project Work"
 author_profile: true
 ---
 

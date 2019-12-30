@@ -40,19 +40,19 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
 [C1]  P. Ahmmed , **S. Saha** , S. M. N. Al Sunny , I. Hossain and I. J. Rafee, ["Modeling and simulation of a Microcontroller based power factor correction converter"](https://ieeexplore.ieee.org/document/6572713), in *International Conference on Informatics, Electronics and Vision (ICIEV)*, 01 August 2013, Dhaka, Bangladesh.
  
- ## Magazines:
+## Magazines:
 
 [M2]  A. Anderson, P. Loomba, I. Orajaka, J. Numfor, **S. Saha**, S. Janko, N. Johnson, R. Podmore and R. Larsen, ["Empowering Smart Communities: Electrification, Education, and Sustainable Entrepreneurship in IEEE Smart Village Initiatives"](https://ieeexplore.ieee.org/document/7942258), in *IEEE Electrification Magazine*, vol. 5, no. 2, pp. 6-16, June 2017. 
 
 [M1]  R. Podmore, R. Larsen, H. Louie, N. Johnson, **S. Saha**, ["Fueling Sustainability: The Exponential Impact of Empowering Off-Grid Communities"](https://ieeexplore.ieee.org/document/7420794), in *IEEE Electrification Magazine*, vol. 4, no. 1, pp. 11-17, Feb. 2016. 
 
- ## Manuscripts under Review:
+## Manuscripts under Review:
  
 [R2] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
  
 [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *IEEE Access*, Sep. 2019.
 
   
- ## Manuscripts under Preparation:
+## Manuscripts under Preparation:
  
 [P1] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation".
