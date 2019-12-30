@@ -5,7 +5,7 @@ excerpt: "Project"
 author_profile: true
 ---
 
-## University of Arkansas (Jan 2016 – Present)
+<!-- ## University of Arkansas (Jan 2016 – Present)
 
 ### Low-latency Anomaly Detection: 
 - Main focus of my Ph.D. dissertation
@@ -25,4 +25,4 @@ author_profile: true
 
 ### Image Processing and Pattern Recognition:
 - Developed algorithms for human action recognition based on spatio-temporal variations of human silhouette while applying classification methods such as kNN and SVM.
-- Designed schemes for lip contour extraction using morphological reconstruction based segmentation approach with k-means clustering.
+- Designed schemes for lip contour extraction using morphological reconstruction based segmentation approach with k-means clustering. -->
