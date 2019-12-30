@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shammya Shananda Saha"
+title                    : "Samrat Nath"
 title_separator          : "-"
-name                     : &name "Shammya Shananda Saha"
-description              : &description "Graduate Research Assistant at Arizona State University"
-url                      : https://sssaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Samrat Nath"
+description              : &description "Ph.D. Candidate at University of Arkansas"
+url                      : https://samrat-nath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sssaha.github.io"
+repository               : "samrat-nath.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-152405050-1"
     anonymize_ip         : true
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shammya Saha"
-  avatar           : "rsz_pro_pic.jpg"
-  bio              : "Graduate Research Assistant, Laboratory for Energy and Power Solutions"
-  location         : "Tempe, Arizona"
-  employer         : "Arizona State University"
+  name             : "Samrat Nath"
+  avatar           : "rsz_pro_pic.jpg"   #"pro_pic_career_fair-2019-min.jpg"
+  bio              : "Ph.D. Candidate and Data Science Enthusiast"
+  location         : #"Arkansas, USA"
+  employer         : "University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=5AF5FNEAAAAJ&hl=en"
-  email            : "shammya.saha@asu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Shammya_Saha"
+  googlescholar    : "https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en"
+  email            : "samratnath4u@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Samrat_Nath3" 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sssaha"
+  github           : "samrat-nath"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shammya-saha/"
+  linkedin         : "samrat-nath-2968b49a/"
   orcid            : "https://orcid.org/0000-0002-3117-8560"
   pinterest        :
   soundcloud       :
@@ -311,5 +311,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
