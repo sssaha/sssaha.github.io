@@ -16,17 +16,17 @@ author_profile: true
 {% endfor %}
 -->
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en) profile.
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5AF5FNEAAAAJ&hl=en) profile.
 
 ## Journal Papers:
 
-[J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in IEEE Journal of Emerging and Selected Topics in Power Electronics, Aug. 2019 (in press).
+[J2] E. Schweitzer, **S. Saha**, A. Scaglione, N. G. Johnson and D. Arnold, ["Lossy DistFlow Formulation for Single and Multiphase Radial Feeders"](https://ieeexplore.ieee.org/abstract/document/8907467), in IEEE Transactions on Power Systems, Nov. 2019. 
 
-[J1] **S. Nath**, J. Wu, and J. Yang, ["Delay and Energy Efficiency Tradeoff for Information Pushing System"](https://ieeexplore.ieee.org/document/8382314/), in IEEE Transactions on Green Communications and Networking, vol. 2, no. 4, pp. 1027-1040, Dec. 2018. 
+[J1] Md. Z. R. Khan, Md. Z. Khan, M. N. I. Khan, **S. Saha**, D. F. Noor, and Md. R. K. Rachi, ["Maximum Power Point Tracking for Photovoltaic Array Using Parabolic Interpolation"](http://www.ijiee.org/index.php?m=content&c=index&a=show&catid=45&id=475), in International Journal of Information and Electronics Engineering, vol. 4, no. 3, pp. 249-255, May 2014. 
 
 ## Conference Papers:
 
-[C7] **S. Nath**, J. Wu and H. Lin, ["Optimum Multicast Scheduling in Delay-Constrained Content-Centric Wireless Networks"](https://ieeexplore.ieee.org/abstract/document/8761690), in *Proc. IEEE Intern. Commun. Conf. (ICC)*, 20-24 May 2019, Shanghai, China.
+<!-- [C7] **S. Nath**, J. Wu and H. Lin, ["Optimum Multicast Scheduling in Delay-Constrained Content-Centric Wireless Networks"](https://ieeexplore.ieee.org/abstract/document/8761690), in *Proc. IEEE Intern. Commun. Conf. (ICC)*, 20-24 May 2019, Shanghai, China.
 
 [C6] **S. Nath** and J. Wu, ["Bayesian quickest change-point detection with multiple candidates of post-change models"](https://ieeexplore.ieee.org/abstract/document/8646596/), in *Proc. IEEE GLobal Conf. on Signal and Information Processing (GlobalSIP)*, Anaheim, CA, U.S.A, 26-29 Nov 2018. 
 
@@ -36,18 +36,18 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 [C3] S. I. Audin,  **S. Nath**, S. Basak, F. S. Rahman, R. Nath, and S. A. Fattah,  ["A human action recognition scheme based on spatio-temporal variation of region of interest in horizontal and vertical direction"](https://ieeexplore.ieee.org/document/6850809), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh.
 
- [C2] F. S. Rahman, R. Nath, **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme based on K-means clustering in different color planes"](https://ieeexplore.ieee.org/document/6850781), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh.
+ [C2] F. S. Rahman, R. Nath, **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme based on K-means clustering in different color planes"](https://ieeexplore.ieee.org/document/6850781), in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh. -->
  
- [C1] R. Nath, F. S. Rahman,  **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme using morphological reconstruction based segmentation"](https://ieeexplore.ieee.org/document/6919175), in *Proc. International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, 10-12 April 2014, Dhaka, Bangladesh.
+ [C1]  P. Ahmmed , **S. Saha** , S. M. N. Al Sunny , I. Hossain and I. J. Rafee, ["Modeling and simulation of a Microcontroller based power factor correction converter"](https://ieeexplore.ieee.org/document/6572713), in *International Conference on Informatics, Electronics and Vision (ICIEV)*, 01 August 2013, Dhaka, Bangladesh.
  
  ## Manuscripts in Review:
  
- [R3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, "Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current, in *IEEE Access*, Nov. 2019.
+ [R1] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors, in *IEEE Access*, Nov. 2019.
  
- [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
+ <!-- [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
  
- [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
+ [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland. -->
  
  ### Manuscripts under Preparation:
  
- [P1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems".
+ [P1] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation".
