@@ -20,9 +20,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J2] E. Schweitzer, **S. Saha**, A. Scaglione, N. G. Johnson and D. Arnold, ["Lossy DistFlow Formulation for Single and Multiphase Radial Feeders"](https://ieeexplore.ieee.org/abstract/document/8907467), in IEEE Transactions on Power Systems, Nov. 2019. 
+[J2] E. Schweitzer, **S. Saha**, A. Scaglione, N. G. Johnson and D. Arnold, ["Lossy DistFlow Formulation for Single and Multiphase Radial Feeders"](https://ieeexplore.ieee.org/abstract/document/8907467), in *IEEE Transactions on Power Systems*, Nov. 2019. 
 
-[J1] Md. Z. R. Khan, Md. Z. Khan, M. N. I. Khan, **S. Saha**, D. F. Noor, and Md. R. K. Rachi, ["Maximum Power Point Tracking for Photovoltaic Array Using Parabolic Interpolation"](http://www.ijiee.org/index.php?m=content&c=index&a=show&catid=45&id=475), in International Journal of Information and Electronics Engineering, vol. 4, no. 3, pp. 249-255, May 2014. 
+[J1] Md. Z. R. Khan, Md. Z. Khan, M. N. I. Khan, **S. Saha**, D. F. Noor, and Md. R. K. Rachi, ["Maximum Power Point Tracking for Photovoltaic Array Using Parabolic Interpolation"](http://www.ijiee.org/index.php?m=content&c=index&a=show&catid=45&id=475), in *International Journal of Information and Electronics Engineering*, vol. 4, no. 3, pp. 249-255, May 2014. 
 
 ## Conference Papers:
 
@@ -50,7 +50,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
 [R2] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
  
-[R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *IEEE Access*, Sep. 2019.
+[R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019.
 
   
 ## Manuscripts under Preparation:
