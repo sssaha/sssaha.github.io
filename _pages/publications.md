@@ -48,9 +48,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Manuscripts under Review:
  
-[R2] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
+[R1] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
  
-[R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019.
+<!-- [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019. -->
 
   
 ## Manuscripts under Preparation:
