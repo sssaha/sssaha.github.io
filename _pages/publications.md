@@ -46,9 +46,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 [M1]  R. Podmore, R. Larsen, H. Louie, N. Johnson, **S. Saha**, ["Fueling Sustainability: The Exponential Impact of Empowering Off-Grid Communities"](https://ieeexplore.ieee.org/document/7420794), in *IEEE Electrification Magazine*, vol. 4, no. 1, pp. 11-17, Feb. 2016. 
 
-## Manuscripts under Review:
+<!-- ## Manuscripts under Review:
  
-[R1] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019.
+[R1] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019. -->
  
 <!-- [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019. -->
 
