@@ -30,5 +30,8 @@ I developed a Python based tool that converts QGIS models of eleven islanded vil
 - Development of a *MATLAB* based CAD tool for Power Electronics Application
 - Design of a programmable DC Load Bank using *Arduino UNO*, real time clock and memory card
 - Dynamic Model Development of a 150 kVA Induction Motor Drive in *Simulink*
-- Developing a 10kW Grid Connected String Inverter in *PLECS*
+- Developing a 100kW Grid Connected String Inverter in *PLECS*
 - Developing a Doubly Fed Wind Turbine Generator in *PLECS*
+- AC Power Line Quantity Measurement and Load Control
+- Bluetooth Controlled Robot with Speed Control and Barrier Detection using *HC05* and *ATMEGA32*
+- Remote Humidity and Temperature Monitoring and Data Logging System using *RS232* protocol and *ATMEGA32*
