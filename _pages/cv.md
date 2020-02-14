@@ -53,9 +53,34 @@ Professional Experience
 - **Lawrence Berkeley National Lab, Berkeley, USA (May 2018 – Aug 2018)**<br>
 *Research Intern, Grid Integration Group*
   - Supervisor: [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold){:target="_blank"}
-  <!-- - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R. -->
-  - Developed a MATLAB and Python based OpenDSS simulation environment for simulating cyber-attack scenarios on smart inverters for power distribution systems.
-  
+    - Developed a MATLAB and Python based OpenDSS simulation environment for simulating cyber-attack scenarios on smart inverters for power distribution systems.
+- **Pi Labs Bangladesh Limited  (June 2014 – May 2015)**<br>
+*Junior Engineer, R&D*
+  - Programming using Embedded C for commercial projects.
+  - PCB (Printed Circuit Board) Design for commercial projects.
+  - Hardware Testing & Debugging
+  - Site Installtion
+  - Customer Support  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Research Experience
 ======
 - Details of my research can be found in the page [Research](https://samrat-nath.github.io/research/)
