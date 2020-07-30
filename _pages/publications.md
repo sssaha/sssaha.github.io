@@ -53,6 +53,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <!-- [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019. -->
 
   
-## Manuscripts under Preparation:
+## Manuscripts under Review:
  
 [P1] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation".
+
+[P2] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson , "A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain".
+
+[P3] **S. Saha**, C. Gorog, A. Moser, A. Scaglione and N. G. Johnson , "Integrating Hardware Security into a Blockchain-Based Transactive Energy Platform ".
+
+[P4] C. Roberts, S. Ngo, A. Milesi, S. Peisert, D. Arnold, **S. Saha**, A. Scaglione, N. G. Johnson, A. Kocheturov and D. Fradkin , "Deep Reinforcement Learning for DER Cyber-Attack Mitigation".
