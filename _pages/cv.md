@@ -54,7 +54,7 @@ Professional Experience
 *Research Intern, Grid Integration Group*
   - Supervisor: [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold){:target="_blank"}
   - Developed a MATLAB and Python based OpenDSS simulation environment for simulating cyber-attack scenarios on smart inverters for power distribution systems.
-- **PXISE Energy Solutions, San DIego, USA (May 2020 – July 2020)**<br>
+- **PXISE Energy Solutions, San Diego, USA (May 2020 – July 2020)**<br>
 *Design Intern, R&D*
   - Supervisor: Raymond A. de Callafon and [Charles Wells](https://www.linkedin.com/in/charles-wells-1807a15b/)
   - Developed model translators to conversion between OpenDSS, CIM and SQL Table representation of power system network
