@@ -60,8 +60,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 [P3] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation", IET Renewable Power Generation.
 
-  
-## Manuscripts under Review:
- 
-[P1] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson , "A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain".
+[P4] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson , "A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain".
 
