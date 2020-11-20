@@ -19,6 +19,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5AF5FNEAAAAJ&hl=en) profile.
 
 ## Journal Papers:
+[J3] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson ,["A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain"](https://www.sciencedirect.com/science/article/pii/S0306261920316044), in *Applied Energy*, Jan. 2021.
 
 [J2] E. Schweitzer, **S. Saha**, A. Scaglione, N. G. Johnson and D. Arnold, ["Lossy DistFlow Formulation for Single and Multiphase Radial Feeders"](https://ieeexplore.ieee.org/abstract/document/8907467), in *IEEE Transactions on Power Systems*, Nov. 2019. 
 
@@ -59,6 +60,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 [P2] C. Roberts, S. Ngo, A. Milesi, S. Peisert, D. Arnold, **S. Saha**, A. Scaglione, N. G. Johnson, A. Kocheturov and D. Fradkin , "Deep Reinforcement Learning for DER Cyber-Attack Mitigation", in *2020 IEEE SmartGridComm*.
 
 [P3] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation", IET Renewable Power Generation.
-
-[P4] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson , "A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain".
 
