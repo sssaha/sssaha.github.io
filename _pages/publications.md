@@ -20,6 +20,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
+[J4] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, ["Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation"](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.12009), IET Renewable Power Generation, January 2021.
+
 [J3] **S. Saha**, N. Ravi, K. Hreinsson, J. Baek, A. Scaglione and N. G. Johnson, ["A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain"](https://www.sciencedirect.com/science/article/pii/S0306261920316044), in *Applied Energy*, vol. 282, Part A, January 2021.
 
 [J2] E. Schweitzer, **S. Saha**, A. Scaglione, N. G. Johnson and D. Arnold, ["Lossy DistFlow Formulation for Single and Multiphase Radial Feeders"](https://ieeexplore.ieee.org/abstract/document/8907467), in *IEEE Transactions on Power Systems*, Nov. 2019. 
@@ -28,7 +30,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Conference Papers:
 
-[C7] **S. Saha**, E. Schweitzer, A. Scaglione and N. G. Johnson, ["A Framework for Generating Synthetic Distribution Feeders using OpenStreetMap"](https://arxiv.org/pdf/1910.07673.pdf), in *51st North American Power Symposium*, 13-15 Oct 2019, Wichita, Kansas, USA. 
+[C8] C. Roberts, S. Ngo, A. Milesi, S. Peisert, D. Arnold, **S. Saha**, A. Scaglione, N. G. Johnson, A. Kocheturov and D. Fradkin , ["Deep Reinforcement Learning for DER Cyber-Attack Mitigation"](https://ieeexplore.ieee.org/document/9302997), in *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, Tempe, AZ, USA, 2020. 
+
+[C7] **S. Saha**, E. Schweitzer, A. Scaglione and N. G. Johnson, ["A Framework for Generating Synthetic Distribution Feeders using OpenStreetMap"](https://ieeexplore.ieee.org/document/9000187), in *51st North American Power Symposium*, 13-15 Oct 2019, Wichita, Kansas, USA. 
 
 [C6] **S. Saha** and N. G. Johnson, ["Point-on-Wave Analysis of Three-Phase Induction Motor Drive Under Fault External to the Power Plant"](https://ieeexplore.ieee.org/document/8586031), in *IEEE Power & Energy Society General Meeting (PESGM)*, 5-10 Aug. 2018, Portland, OR, USA. 
 
@@ -58,7 +62,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
 [P1] **S. Saha**, C. Gorog, A. Moser, A. Scaglione and N. G. Johnson , "Integrating Hardware Security into a Blockchain-Based Transactive Energy Platform ", in *2021 North American Power Symposium*.
 
-[P2] C. Roberts, S. Ngo, A. Milesi, S. Peisert, D. Arnold, **S. Saha**, A. Scaglione, N. G. Johnson, A. Kocheturov and D. Fradkin , "Deep Reinforcement Learning for DER Cyber-Attack Mitigation", in *2020 IEEE SmartGridComm*.
 
-[P3] **S. Saha**, D. Arnold, A. Scaglione, E. Schweitzer , N. G. Johnson , C. Roberts and S. Peisert, "Lyapunov Stability of Smart Inverters Policies based on Linearized DistFlow Approximation", IET Renewable Power Generation.
 
