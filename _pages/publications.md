@@ -60,4 +60,3 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
 [P1] **S. Saha**, C. Gorog, A. Moser, A. Scaglione and N. G. Johnson , "Integrating Hardware Security into a Blockchain-Based Transactive Energy Platform ", in *2021 North American Power Symposium*.
 
-
