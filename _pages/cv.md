@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-- **Doctor of Philosophy (Ph.D.) in Electrical Engineering**
+- **Ph.D. Candidate in Electrical Engineering**
   - **Instituition:** Arizona State University, Tempe, Arizona, USA.
-  - **Date:** October 2020 (expected)
+  - **Date:** June 2021 (expected)
   - **Dissertation:** Stability and Security of Distribution Networks with High-Penetration Renewables
   - **Advisor:** [Dr. Nathan Johnson](https://sustainability.asu.edu/person/nathan-johnson/){:target="_blank"}
   - **CGPA:** 3.90/4.00 
@@ -32,7 +32,7 @@ Education
 
 Technical Skills
 ======
-- *Programming Languages*: Python, MATLAB, NodeJS, C, Java 
+- *Programming Languages*: Python, MATLAB, NodeJS, C, Java, C# 
 - *Power System Software*:  OpenDSS, GridlabD, XENDEE, DSATools (PSAT,TSAT,SSAT), PSLF, PSSE, MATPower, PSCAD
 - *Optimization Tools*:  AMPL, Google OR Solver, DERCAM
 - *Blockchain Application*: Hyperledger Fabric
@@ -59,6 +59,7 @@ Professional Experience
   - Supervisor: Raymond A. de Callafon and [Charles Wells](https://www.linkedin.com/in/charles-wells-1807a15b/)
   - Developed model translators to conversion between OpenDSS, CIM and SQL Table representation of power system network
   - Developed Analysis Modules to validate dispatch commands and sensitivity 
+  - Developed converters to conver CIM Model (GE Smallworld) to SQL and OpenDSS format
   - Developed tools for validating DERMS data
 
 
