@@ -9,7 +9,7 @@ author_profile: true
 - [The Large Impact of Microgrids](https://asunow.asu.edu/20180222-solutions-large-impact-microgrids)
 - [Power Mapping brings Rapid Reliable Energy to Rural Communities](https://blog.mapillary.com/update/2020/10/20/sierra-leone-mapping.html)
 - [Polytechnic lab inspires youth to discover the future of energy](https://community.asu.edu/content/polytechnic-lab-inspires-youth-discover-future-energy)
-- [The Large Impact of Microgrids](https://news.asu.edu/20180222-solutions-large-impact-microgrids)
+
 
 ### Training Program
 I have always enjoyed teaching and training people, and joining my lab provided me an incredible opportunity through the Microgrid Boot Camp (Details can be found [here](https://leaps.asu.edu/trainings/)). Since 2016, I have been part of the team responsible for content preparation, hardware integration test and software training program. I have been conducting the training session on XENDEE for 'Microgrid Design and Operation'. Glimpse of microgrid boot camps can be found in the following videos: 
