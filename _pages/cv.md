@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-- **Ph.D. Candidate in Electrical Engineering**
+- **Ph.D. in Electrical Engineering**
   - **Instituition:** Arizona State University, Tempe, Arizona, USA.
-  - **Date:** June 2021 (expected)
+  - **Date:** June 2021
   - **Dissertation:** Stability and Security of Distribution Networks with High-Penetration Renewables
   - **Advisor:** [Dr. Nathan Johnson](https://sustainability.asu.edu/person/nathan-johnson/){:target="_blank"}
   - **CGPA:** 3.90/4.00 

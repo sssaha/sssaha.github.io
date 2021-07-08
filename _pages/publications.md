@@ -28,6 +28,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 [J1] Md. Z. R. Khan, Md. Z. Khan, M. N. I. Khan, **S. Saha**, D. F. Noor, and Md. R. K. Rachi, ["Maximum Power Point Tracking for Photovoltaic Array Using Parabolic Interpolation"](http://www.ijiee.org/index.php?m=content&c=index&a=show&catid=45&id=475), in *International Journal of Information and Electronics Engineering*, vol. 4, no. 3, pp. 249-255, May 2014. 
 
 ## Conference Papers:
+[C9] **S. Saha**, C. Gorog, A. Moser, A. Scaglione and N. G. Johnson , ["Integrating Hardware Security into a Blockchain-Based Transactive Energy Platform"](10.1109/NAPS50074.2021.9449802), in *2021 North American Power Symposium*, 11-13 April, 2021, Tempe, Arizona, USA.
+
 [C8] C. Roberts, S. Ngo, A. Milesi, S. Peisert, D. Arnold, **S. Saha**, A. Scaglione, N. G. Johnson, A. Kocheturov and D. Fradkin , ["Deep Reinforcement Learning for DER Cyber-Attack Mitigation"](10.1109/SmartGridComm47815.2020.9302997), in *IEEE SmartGridComm*, 11-13 Nov 2020, Tempe, Arizona, USA.
 
 [C7] **S. Saha**, E. Schweitzer, A. Scaglione and N. G. Johnson, ["A Framework for Generating Synthetic Distribution Feeders using OpenStreetMap"](10.1109/NAPS46351.2019.9000187), in *51st North American Power Symposium*, 13-15 Oct 2019, Wichita, Kansas, USA. 
@@ -50,13 +52,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 [M1]  R. Podmore, R. Larsen, H. Louie, N. Johnson, **S. Saha**, ["Fueling Sustainability: The Exponential Impact of Empowering Off-Grid Communities"](https://ieeexplore.ieee.org/document/7420794), in *IEEE Electrification Magazine*, vol. 4, no. 1, pp. 11-17, Feb. 2016. 
 
-<!-- ## Manuscripts under Review:
+## Manuscripts under Review:
  
-[R1] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, Oct. 2019. -->
+[R2] D. Arnold, **S. Saha**, C. Roberts, A. Scaglione, N. G. Johnson, and S. Peisert, "	Adaptive Control of Smart Inverters for Distribution Grid Cybersecurity", in *IEEE Transactions on Power Systems*, May 2021.
  
-<!-- [R1] N. Ravi, **S. Saha**, A. Scaglione and N. G. Johnson, "	Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors" , in *American Control Conference*, Sep. 2019. -->
+[R1] **S. Saha**, A. Scaglione, R. Ramakrishna and N. G. Johnson, "Convex Relaxation For State Estimation and Optimal Power Flow Using Graph Signal Processing" , in *IEEE Transactions on Power Systems*, June 2021.
 
-## Manuscripts Accepted:
+<!-- ## Manuscripts Accepted:
  
-[P1] **S. Saha**, C. Gorog, A. Moser, A. Scaglione and N. G. Johnson , "Integrating Hardware Security into a Blockchain-Based Transactive Energy Platform ", in *2021 North American Power Symposium*.
+[P1]  -->
 
